@@ -8,9 +8,7 @@ src/main/java/com/example/taskmanager/repository/TaskRepository.java
 Якщо пакету repository ще нема — створи.
 
 📦 Код TaskRepository.java:
-java
-Copy
-Edit
+
 package com.example.taskmanager.repository;
 
 import com.example.taskmanager.model.Task;

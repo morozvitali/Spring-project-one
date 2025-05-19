@@ -7,9 +7,6 @@ src/main/java/com/example/taskmanager/model/Task.java
 Якщо немає пакету model — створи його для зберігання сутностей.
 
 📦 Код Task.java:
-java
-Copy
-Edit
 package com.example.taskmanager.model;
 
 import jakarta.persistence.*;

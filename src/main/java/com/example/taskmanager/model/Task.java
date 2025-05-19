@@ -1,6 +1,5 @@
 package com.example.taskmanager.model;
 
-
 import jakarta.persistence.*;
 
 @Entity
@@ -18,7 +17,6 @@ public class Task {
     public Task (String title, boolean completed) {
         this.title = title;
     }
-
 
     public Long getId() {
         return id;
