@@ -22,7 +22,7 @@ public class TaskController {
     //get all tasks
     @GetMapping
     public List <Task> getAllTasks () {
-        return taskService.findAll()
+        return taskService.findAll();
     }
 
     //refresh task
